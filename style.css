@@ -1,0 +1,12 @@
+.container{
+    margin-bottom: 80px;
+}
+.navbar{
+    position: fixed;
+    z-index: 1;
+    top: 0;
+}
+
+.subscribe{
+    height: 300px;
+}
